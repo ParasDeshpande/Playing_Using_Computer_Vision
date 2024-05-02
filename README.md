@@ -13,7 +13,7 @@
 Tile of the Project 
 **[OpenCV Arcade]** 
 
-🤔**Why??**
+🤔**Why??** 
 Design a computer vision game that engages players in a visually stimulating and 
 immersive experience. The game should utilize computer vision technology to 
 recognize and track the movements of the player's hand, enabling them to 
@@ -23,7 +23,7 @@ power of computer vision to create a unique and captivating experience.
 Additionally, the game should be accessible to players of all ages and skill levels, 
 making it easy for anyone to pick up and play
 
-🤖**Introduction**
+🤖**Introduction:** 
 OpenCV Games is a project that aims to create a collection of games that utilize 
 the OpenCV computer vision library. The project seeks to explore the creative 
 potential of computer vision technology in game design and offer a unique 
@@ -54,7 +54,7 @@ Additional libraries or frameworks may be required depending on the game's
 requirements and platform, such as Qt or Unity for desktop and mobile 
 platforms, respectively. 
 
- **→Conclusion** 
+ **→Conclusion:**  
 The project will be resources for student developers who are interested in 
 learning how to use OpenCV for game design. By sharing knowledge, the project 
 aims to inspire more game developers to explore the possibilities of computer 
